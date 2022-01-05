@@ -1,0 +1,1 @@
+var dust = document.onmouseenter;
