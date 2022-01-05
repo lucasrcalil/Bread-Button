@@ -26,7 +26,7 @@ body {
   display: flex;
   height: 58px;
   width: 268px;
-  background-image: url(/assets/images/bg.svg);
+  background-image: url(../images/bg.svg);
   background-position: center center;
   border-radius: 40px;
   justify-content: center;
